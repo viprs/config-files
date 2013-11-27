@@ -3,11 +3,11 @@ set runtimepath^=~/.vim/bundle/nerdtree.vim
 set runtimepath^=~/.vim/bundle/rails.vim
 set runtimepath^=~/.vim/bundle/snipMate.vim
 
-" set smart indent 
+" note:set smart indent 
 set si
-" set tabstop=2
+" note:set tabstop=2
 set ts=2
-" expand tab to space
+" note:expand tab to space
 set et
 
 " set line number
