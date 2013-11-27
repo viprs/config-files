@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/rs/github/Ruby-on-Rails/depot'
+let g:netrw_dirhist_2='/home/rs/github/Ruby-on-Rails/depot/public'
+let g:netrw_dirhist_3='/home/rs/github/Ruby-on-Rails/depot/.git'
+let g:netrw_dirhist_4='/home/rs/.ssh'
+let g:netrw_dirhist_5='/home/rs/github/Ruby-on-Rails/depot/app/views/products'
+let g:netrw_dirhist_6='/home/rs/github/Ruby-on-Rails/depot/public'
+let g:netrw_dirhist_7='/home/rs/github/Ruby-on-Rails/demo-depot/vendor'
